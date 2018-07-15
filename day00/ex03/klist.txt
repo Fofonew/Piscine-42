@@ -1,0 +1,5 @@
+Credentials cache: API:81373C43-375A-4A07-8CF0-FBFC67C7E3EA
+        Principal: doriol@42.FR
+
+  Issued                Expires               Principal
+Mar  6 16:09:18 2017  Mar 13 16:09:12 2017  krbtgt/42.FR@42.FR
